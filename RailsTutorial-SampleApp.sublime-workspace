@@ -1,0 +1,253 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+		]
+	},
+	"buffers":
+	[
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 481.0,
+		"last_filter": "install",
+		"selected_items":
+		[
+			[
+				"install",
+				"Package Control: Install Package"
+			]
+		],
+		"width": 922.0
+	},
+	"console":
+	{
+		"height": 0.0,
+		"history":
+		[
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"expanded_folders":
+	[
+		"/home/marksia/code/RailsTutorial/workspace/sample_app"
+	],
+	"file_history":
+	[
+		"/home/marksia/code/RailsTutorial/workspace/sample_app/RailsTutorial-SampleApp.sublime-project",
+		"/home/marksia/code/RailsTutorial/workspace/hello_app/README.md",
+		"/home/marksia/code/RailsTutorial/workspace/toy_app/db/schema.rb",
+		"/home/marksia/code/RailsTutorial/workspace/toy_app/app/models/user.rb",
+		"/home/marksia/code/RailsTutorial/workspace/toy_app/app/models/micropost.rb",
+		"/home/marksia/code/RailsTutorial/workspace/toy_app/test/models/micropost_test.rb",
+		"/home/marksia/code/RailsTutorial/workspace/toy_app/app/views/users/index.html.erb",
+		"/home/marksia/code/RailsTutorial/workspace/toy_app/app/controllers/microposts_controller.rb",
+		"/home/marksia/code/RailsTutorial/workspace/toy_app/app/controllers/application_controller.rb",
+		"/home/marksia/code/RailsTutorial/workspace/toy_app/app/controllers/users_controller.rb",
+		"/home/marksia/code/RailsTutorial/workspace/toy_app/config/routes.rb",
+		"/home/marksia/code/RailsTutorial/workspace/toy_app/db/development.sqlite3",
+		"/home/marksia/code/RailsTutorial/workspace/toy_app/Gemfile",
+		"/home/marksia/code/RailsTutorial/workspace/hello_app/config/routes.rb",
+		"/home/marksia/code/RailsTutorial/workspace/hello_app/app/controllers/application_controller.rb",
+		"/home/marksia/code/RailsTutorial/workspace/hello_app/Gemfile",
+		"/media/marksia/mark/code/InstaPy/quickstart.py"
+	],
+	"find":
+	{
+		"height": 77.0
+	},
+	"find_in_files":
+	{
+		"height": 199.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"sheets":
+			[
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 58.0
+	},
+	"input":
+	{
+		"height": 0.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"pinned_build_system": "",
+	"project": "RailsTutorial-SampleApp.sublime-project",
+	"replace":
+	{
+		"height": 108.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"readme",
+				"workspace/hello_app/README.md"
+			],
+			[
+				"models",
+				"workspace/toy_app/app/models/micropost.rb"
+			],
+			[
+				"schema",
+				"workspace/toy_app/db/schema.rb"
+			],
+			[
+				"modeluser",
+				"workspace/toy_app/app/models/user.rb"
+			],
+			[
+				"modelmicropos",
+				"workspace/toy_app/app/models/micropost.rb"
+			],
+			[
+				"modelmicroposts",
+				"workspace/toy_app/test/models/micropost_test.rb"
+			],
+			[
+				"users",
+				"workspace/toy_app/app/views/users/index.html.erb"
+			],
+			[
+				"micropost",
+				"workspace/toy_app/app/models/micropost.rb"
+			],
+			[
+				"user",
+				"workspace/toy_app/app/models/user.rb"
+			],
+			[
+				"userscontrol",
+				"workspace/toy_app/app/controllers/users_controller.rb"
+			],
+			[
+				"routes",
+				"workspace/toy_app/config/routes.rb"
+			],
+			[
+				"confroute",
+				"workspace/hello_app/config/routes.rb"
+			],
+			[
+				"appcontro",
+				"workspace/hello_app/app/controllers/application_controller.rb"
+			],
+			[
+				"seeds",
+				"db/seeds.rb"
+			],
+			[
+				"seed",
+				"db/seeds.rb"
+			]
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 1000.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"",
+				"~/code/RailsTutorial/workspace/toy_app/app/controllers/railstutorial.sublime-project"
+			]
+		],
+		"width": 760.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 615.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
