@@ -59,7 +59,7 @@ class PasswordResetsTest < ActionDispatch::IntegrationTest
     assert_redirected_to user
     # Test if password_digest is cleared
     user.reload
-    assert_nil @user.reset_digest
+    assert_nil user.reset_digest
   end
 
   test "expired token" do

@@ -1,4 +1,5 @@
 class User < ApplicationRecord
+  has_many :microposts, dependent: :destroy
 	# before_save { self.email = email.downcase }
   attr_accessor :remember_token, :activation_token, :reset_token
 	before_save :downcase_email
@@ -65,6 +66,12 @@ class User < ApplicationRecord
 
   def password_reset_expired?
     reset_at < 2.hours.ago
+  end
+
+  # Defines a proto-feed.
+  # See "Following users" for the full implementation.
+  def feed
+    Micropost.where("user_id = ?", id)
   end
 
   private
